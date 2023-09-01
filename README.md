@@ -15,5 +15,6 @@ Contact and FAQ Sections: Access the Contact and FAQ sections for easy communica
 
 ## Technologies used: HTML,CSS,Bootstrap.
 
+![SS(1)](https://github.com/Abhi9765/Powerhouse---Online-Fashion-Store-Front-end-project/assets/138243988/de9a8594-ea46-41d8-9c5a-7cdc2a582004)
 
 

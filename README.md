@@ -5,7 +5,7 @@ Key Features:
 
 Diverse Clothing Selection: Explore a wide range of clothing options for kids, children, and men, including jewelry, sports wear, bags, backpacks, watches, innerwear, footwear, and topwear.
 
-Modern and Responsive Design: Our prototype boasts a modern and responsive design that adapts seamlessly to various devices and screen sizes.
+Modern and Responsive Design: This prototype boasts a modern and responsive design that adapts seamlessly to various devices and screen sizes.
 
 Eye-catching Visuals: High-quality images of the latest fashion trends make browsing a visually engaging experience.
 

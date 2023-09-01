@@ -1,4 +1,4 @@
-# Front-end-project
+# PowerHouse
 Powerhouse is a prototype showcasing a dynamic online fashion store homepage. Built using HTML, CSS, and Bootstrap technologies, this project demonstrates the potential for creating an appealing and responsive fashion website.
 
 ## Key Features:

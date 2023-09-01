@@ -14,6 +14,7 @@ Effortless Navigation: Intuitive navigation menus simplify the process of discov
 Interactive Sliders: Engaging sliders and carousels showcase best-selling products, new arrivals, and exclusive offers.
 
 Contact and FAQ Sections: Access the Contact and FAQ sections for easy communication and answers to common questions.
+
 Bootstrap - Providing a solid foundation for responsive web design.
 
 

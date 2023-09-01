@@ -3,7 +3,7 @@ Powerhouse is a prototype showcasing a dynamic online fashion store homepage, of
 
 ## Key Features:
 
-Diverse Clothing Selection: Explore a wide range of clothing options for kids, children, and men, including jewelry, sports wear, bags, backpacks, watches, innerwear, footwear, and topwear.
+### Diverse Clothing Selection: Explore a wide range of clothing options for kids, children, and men, including jewelry, sports wear, bags, backpacks, watches, innerwear, footwear, and topwear.
 
 Modern and Responsive Design: This prototype boasts a modern and responsive design that adapts seamlessly to various devices and screen sizes.
 
